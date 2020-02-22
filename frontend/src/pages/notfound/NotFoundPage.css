@@ -1,0 +1,30 @@
+#warning-title {
+  font-size: 35px;
+}
+
+#msg {
+  margin-top: 5px;
+}
+
+ul {
+  margin-top: 2px;
+  padding-left: 35px;
+  list-style: disc;
+}
+
+#link-button {
+  background-color: transparent;
+  color: #3273dc;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  display: inline;
+  margin: 0px 5px;
+  padding: 0;
+}
+
+#link-button:hover,
+#link-button:focus {
+  color: #4a4a4a;
+}

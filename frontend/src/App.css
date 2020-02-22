@@ -1,0 +1,7 @@
+.level:not(:last-child), .subtitle:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
+
+html {
+  background-color: #209cee;
+}

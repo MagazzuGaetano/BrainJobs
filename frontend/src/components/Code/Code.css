@@ -1,0 +1,15 @@
+pre {
+    padding: 0;
+    border-radius: 4px;
+    box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+    color: #4a4a4a;
+}
+
+code {
+    max-height: 350px;
+    background: #f9f9f9 !important;
+}
+
+#code-type {
+    margin: 10px 0px;
+}

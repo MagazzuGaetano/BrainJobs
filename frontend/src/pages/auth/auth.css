@@ -1,0 +1,11 @@
+#auth {
+  display: flex;
+	align-items: center;
+	justify-content: center;
+	/*height: 100vh;*/
+}
+
+#auth .box {
+  width: 36rem;
+  box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.11);
+}
